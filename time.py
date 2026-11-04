@@ -1,5 +1,5 @@
 # Time for an object to free fall from a given height
-gravity = 24.79
+gravity = 1.62
 height = 10
 import math
 time = math.sqrt(2 * height / gravity)

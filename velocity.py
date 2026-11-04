@@ -4,4 +4,4 @@ time = 2.0
 velocity = gravity * time
 print("After", time, "s a free falling object reaches", velocity, "m/s")
 velocity_kmh = velocity * 3.6
-print("or", velocity_kmh, "m/s")
+print("or", velocity_kmh, "km/h")

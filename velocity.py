@@ -2,4 +2,4 @@
 gravity = 9.81
 time = 2.0
 velocity = gravity * time
-print(velocity)
+print("After", time, "s a free falling object reaches", velocity, "m/s")
